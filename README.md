@@ -1,6 +1,6 @@
 # Looker-Custom-Maps-Tutorial
 
-This repo contains the data files and TopoJSON files used in my medium blog - Custom Map Layer in Looker
+This repo contains the data files and TopoJSON files used in my medium blog - [Custom Map Layer in Looker](https://medium.com/p/1c2e103496df)
 # Indian Demographic Data
 1. India Cities Database: https://simplemaps.com/data/in-cities
 2. India Statewise data: https://www.kaggle.com/datasets/gokulrajkmv/indian-statewise-data-from-rbi?select=RBI+DATA+states_wise_population_Income.csv
